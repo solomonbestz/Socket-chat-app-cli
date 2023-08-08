@@ -1,0 +1,2 @@
+<p>The AF_INET is pointing to the Ip v4 address</p>
+<p>The SOCK_STREAM is pointing to the Tcp protocol(The Tcp packet for communication)</p>
